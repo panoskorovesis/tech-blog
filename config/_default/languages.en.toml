@@ -18,7 +18,8 @@ title = "The Space 🌍"
    name = "Panos Korovesis"
    email = "panoskorovesis@outlook.com"
 #   image = "img/blowfish_logo.png"
-   image = "https://avatars.githubusercontent.com/u/50746067?v=4"
+#   image = "https://avatars.githubusercontent.com/u/50746067?v=4"
+   image = "https://media.licdn.com/dms/image/v2/D4D03AQGVRtN2cNs23w/profile-displayphoto-crop_800_800/B4DZlMhVHeHwAI-/0/1757925430315?e=1765411200&v=beta&t=us1ZJIRAohBV2a5r_xJLNoW4hO_DJvkzxT4WSpoXBYs"
 #   imageQuality = 96
    headline = "Hi 👋. Welcome 🎉"
    bio = "Data Engineer at BIG DATA LAB, Msc Data Science"
@@ -45,7 +46,7 @@ title = "The Space 🌍"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://www.linkedin.com/in/panos-korovesis/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
