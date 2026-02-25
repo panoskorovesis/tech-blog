@@ -2,7 +2,7 @@
 title: "Welcome"
 date: 2021-08-05
 tags: ["thoughts"]
-categories: ["aboutme"]
+categories: ["Personal"]
 author: "Panos Korovesis"
 draft: false
 description: "This is my first post"
